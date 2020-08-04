@@ -35,9 +35,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
----
-
-<img align="left" alt="Andrea Jaspers's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AndreaJasper&theme=buefy&show_icons=true&hide_border=true" />
 
 
 [website]: https://andreajasper.com
@@ -49,3 +46,45 @@
 Everyone seems to have an idea on what they want to build, or where they’re going. Me, I just like coding. So I guess I’m in the category, “I haven’t decided yet.” What I do know is that I enjoy the process of connecting backend development with frontend. I’m terrible at design, but it’s so satisfying to see all your hard work functioning for customers. There’s nothing quite like creating something awesome out of nothing.
 
 :computer: I'm open to all opportunities and discussions on topics I'm interested in. -->
+
+
+
+---
+
+<img align="left" alt="Andrea Jaspers's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AndreaJasper&theme=buefy&show_icons=true&hide_border=true" />
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+
+<a href="https://github.com/AndreaJasper/sinatra-fwitter-group-project-cb-000">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreaJasper&theme=nightowl&repo=sinatra-fwitter-group-project-cb-000" />
+</a>
+
+<a href="https://github.com/AndreaJasper/Sinatra-Workorder-App">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreaJasper&theme=nightowl&repo=Sinatra-Workorder-App" />
+</a>
+
+<a href="https://github.com/AndreaJasper/nyc-sinatra-cb-000">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreaJasper&theme=nightowl&repo=nyc-sinatra-cb-000" />
+</a>
+
+<a href="https://github.com/AndreaJasper/oo-student-scraper-cb-000">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreaJasper&theme=nightowl&repo=oo-student-scraper-cb-000" />
+</a>
+
+<a href="https://github.com/AndreaJasper/playlister-sinatra-cb-000">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreaJasper&theme=nightowl&repo=playlister-sinatra-cb-000" />
+</a>
+
+<a href="https://github.com/AndreaJasper/ruby-music-library-cli-cb-000">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreaJasper&theme=nightowl&repo=ruby-music-library-cli-cb-000" />
+</a>
