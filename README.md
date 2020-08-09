@@ -33,6 +33,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What I learned while building this site](http://www.andreajasper.com/what-i-learned-while-building-this-site/)
+- [Finding a consistent routine](http://www.andreajasper.com/finding-a-consistent-routine/)
+- [I started programming for the challenge](http://www.andreajasper.com/i-started-programming-for-the-challenge/)
+- [Stay calm. Code on.](http://www.andreajasper.com/stay-calm-code-on/)
+- [Lessons from the mat](http://www.andreajasper.com/lessons-from-the-mat/)
 <!-- BLOG-POST-LIST:END -->
 
 
