@@ -30,7 +30,7 @@
 <br />
 
 ---
-<!--
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [My First WordPress Theme](http://www.andreajasper.com/my-first-wordpress-theme/)
@@ -38,7 +38,6 @@
 - [How I Got Into Programming](http://www.andreajasper.com/i-started-programming-for-the-challenge/)
 - [Tips for Beginner Developers](http://www.andreajasper.com/tips-for-beginner-developers/)
 <!-- BLOG-POST-LIST:END -->
--->
 
 
 [website]: https://andreajasper.com
