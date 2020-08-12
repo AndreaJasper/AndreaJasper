@@ -33,11 +33,10 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [What I learned while building this site](http://www.andreajasper.com/what-i-learned-while-building-this-site/)
+- [My First WordPress Theme](http://www.andreajasper.com/my-first-wordpress-theme/)
 - [Finding a consistent routine](http://www.andreajasper.com/finding-a-consistent-routine/)
-- [I started programming for the challenge](http://www.andreajasper.com/i-started-programming-for-the-challenge/)
-- [Stay calm. Code on.](http://www.andreajasper.com/stay-calm-code-on/)
-- [Lessons from the mat](http://www.andreajasper.com/lessons-from-the-mat/)
+- [How I Got Into Programming](http://www.andreajasper.com/i-started-programming-for-the-challenge/)
+- [Tips for Beginner Developers](http://www.andreajasper.com/tips-for-beginner-developers/)
 <!-- BLOG-POST-LIST:END -->
 
 
