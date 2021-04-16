@@ -1,18 +1,10 @@
-<h1 align="center">Hi 👋, I'm Andrea</h1>
-<h3 align="center">I'm an enthusiastic Full-Stack Engineer</h3>
+### Hi 👋, I'm Andrea
+## I'm an enthusiastic Full-Stack Engineer
+<a href="https://linkedin.com/in/andrea-jasper" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
 
 - 🔭 I’m currently working on [Hapyn](https://hapyn.com/)
-
 - 🌱 I’m currently learning **React/Redux**
-
 - ⚡ Fun fact **I practice jiu-jitsu in my spare time.**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/andrea-jasper" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
-</p>
 
 ---
 
