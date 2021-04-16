@@ -1,6 +1,6 @@
 # Hi! Nice of you to stop by.
 
-I'm Andrea, a Full-stack developer in the United States.
+I'm Andrea, a Full-stack Rails developer in the United States.
 
 <a href="https://linkedin.com/in/andrea-jasper" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
 
