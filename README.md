@@ -1,11 +1,6 @@
-### Hello there, I'm Andrea!
+# Hi! Nice of you to stop by.
 
-A full-stack developer from the United States </br>
-
-- 🔭 I’m currently working on [Hapyn](https://hapyn.com/)
-- 🌱 I’m currently learning **React/Redux**
-- 🥅 2020 Goals **Contribute more to Open Source projects**
-- ⚡ Fun fact **I practice jiu-jitsu in my spare time.**
+I'm Andrea, a Full-stack developer in the United States.
 
 <a href="https://linkedin.com/in/andrea-jasper" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
 
