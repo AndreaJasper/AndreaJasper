@@ -4,6 +4,7 @@
 #####
   <code>
     <a href="https://www.linkedin.com/in/andreajasper/" title="LinkedIn Profile"><img width="22" src="https://github.com/andreajasper/andreajasper/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+    <br/>
   <!-- <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="https://github.com/andreajasper/andreajasper/blob/master/images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="https://github.com/andreajasper/andreajasper/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://github.com/andreajasper/andreajasper/blob/master/images/instagram.svg"> Instagram</a></code> -->
@@ -16,7 +17,11 @@
   💻 I love writing code and learn anythings about it</br>
   📚 I’m currently learning how to build E-Commerce Website with Django</br>
   💬 Ask me anything about from <a href="https://github.com/andreajasper/andreajasper/issues" title="Issues">Here</a></br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+
+
+---
+
+<!-- START_SECTION:activity -->
 
 ---
 
@@ -39,7 +44,7 @@
   <code><img title="AngularJS" height="25" src="https://github.com/andreajasper/andreajasper/blob/master/images/angularjs.png"></code> -->
   <code><img title="Git" height="25" src="https://github.com/andreajasper/andreajasper/blob/master/images/git-original.svg"></code>
   <!-- <code><img title=".NetCore" height="25" src="https://github.com/andreajasper/andreajasper/blob/master/images/dotnetcore.svg"></code> -->
-  <code><img title="PostgreSQL" height="25" src="https://github.com/andreajasper/andreajasper/blob/master/images/postgresql.svg"></code>
+  <!-- <code><img title="PostgreSQL" height="25" src="https://github.com/andreajasper/andreajasper/blob/master/images/postgresql.svg"></code> -->
   <code><img title="Visual Studio Code" height="25" src="https://github.com/andreajasper/andreajasper/blob/master/images/vscode.png"></code>
   <!-- <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/andreajasper/andreajasper/blob/master/images/visualstudio.png"></code> -->
   <code><img title="JQuery" height="25" src="https://github.com/andreajasper/andreajasper/blob/master/images/jquery-original.svg"></code>
@@ -54,13 +59,15 @@
   <!-- <code><img title="Flask" height="25" src="https://github.com/andreajasper/andreajasper/blob/master/images/flask.png"></code> -->
 </p>
 
+<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/><img src="	https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><img srct="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
 <hr>
 
 <p align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+  <a href="https://github.com/andreajasper/github-readme-stats" title="Go to Source">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=andreajasper&show_icons=true&theme=gotham">
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/andreajasper/github-readme-stats">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreajasper&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
   </a>
 </p>
