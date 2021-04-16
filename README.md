@@ -18,15 +18,11 @@
   📚 I’m currently learning how to build E-Commerce Website with Django</br>
   💬 Ask me anything about from <a href="https://github.com/andreajasper/andreajasper/issues" title="Issues">Here</a></br>
 
-
----
-
-<!--START_SECTION:activity-->
-
 ---
 
 <h2 align="center">Languages, Frameworks, Tools, & Abilities</h2>
 
+<!--
 <p align="center">
   <!-- <code><img title="C" height="25" src="https://github.com/andreajasper/andreajasper/blob/master/images/c.svg"></code>
   <code><img title="C++" height="25" src="https://github.com/andreajasper/andreajasper/blob/master/images/cpp.svg"></code>
@@ -59,20 +55,16 @@
   <!-- <code><img title="Flask" height="25" src="https://github.com/andreajasper/andreajasper/blob/master/images/flask.png"></code> -->
 </p>
 
+-->
+
 <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/><img src="	https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><img srct="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-<hr>
+---
 
-<p align=center>
-  <a href="https://github.com/andreajasper/github-readme-stats" title="Go to Source">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=andreajasper&show_icons=true&theme=gotham">
-  </a>
-  <a href="https://github.com/andreajasper/github-readme-stats">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=andreajasper&show_icons=true&theme=gotham">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreajasper&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
-  </a>
-</p>
 
-<hr>
+---
 
 <h2 align="center">Repositories</h2>
 
