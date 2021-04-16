@@ -1,6 +1,7 @@
 ### Hi 👋, I'm Andrea
-## I'm an enthusiastic Full-Stack Engineer
 <a href="https://linkedin.com/in/andrea-jasper" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
+
+
 
 - 🔭 I’m currently working on [Hapyn](https://hapyn.com/)
 - 🌱 I’m currently learning **React/Redux**
@@ -16,8 +17,5 @@
 <p align=left>
   <a href="https://github.com/andreajasper/github-readme-stats" title="Go to Source">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=andreajasper&show_icons=true&theme=gotham">
-  </a>
-  <a href="https://github.com/andreajasper/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreajasper&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
   </a>
 </p>
