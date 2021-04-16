@@ -18,16 +18,6 @@
   📚 I’m currently learning how to build E-Commerce Website with Django</br>
   💬 Ask me anything about from <a href="https://github.com/andreajasper/andreajasper/issues" title="Issues">Here</a></br>
 
-
----
-
-<!--START_SECTION:activity-->
-<summary>:zap: Recent GitHub Activity</summary>
-1. ❗️ Closed issue [#8](https://github.com/AndreaJasper/free-developer-resources/issues/8) in [AndreaJasper/free-developer-resources](https://github.com/AndreaJasper/free-developer-resources)
-2. 🗣 Commented on [#8](https://github.com/AndreaJasper/free-developer-resources/issues/8) in [AndreaJasper/free-developer-resources](https://github.com/AndreaJasper/free-developer-resources)
-3. 🗣 Commented on [#7](https://github.com/AndreaJasper/free-developer-resources/issues/7) in [AndreaJasper/free-developer-resources](https://github.com/AndreaJasper/free-developer-resources)
-4. 🎉 Merged PR [#7](https://github.com/AndreaJasper/free-developer-resources/pull/7) in [AndreaJasper/free-developer-resources](https://github.com/AndreaJasper/free-developer-resources)
-5. 🗣 Commented on [#3](https://github.com/AndreaJasper/AndreaJasper-vscode-theme/issues/3) in [AndreaJasper/AndreaJasper-vscode-theme](https://github.com/AndreaJasper/AndreaJasper-vscode-theme)
 ---
 
 <h2 align="center">Languages, Frameworks, Tools, & Abilities</h2>
