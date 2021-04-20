@@ -12,6 +12,7 @@ I'm Andrea, a Full-stack Rails developer in the United States.
 
 <p align=left>
   <a href="https://github.com/andreajasper/github-readme-stats" title="Go to Source">
+    <!--START_SECTION:activity-->
     <img width="350" align="center" src="https://github-readme-stats.vercel.app/api?username=andreajasper&show_icons=true&theme=vision-friendly-dark">
   </a>
 </p>
