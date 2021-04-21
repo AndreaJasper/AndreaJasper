@@ -13,11 +13,11 @@ I'm Andrea, a Full-stack Rails developer in the United States.
 <p align=left>
   <a href="https://github.com/andreajasper/github-readme-stats" title="Go to Source">
     <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/learn-co-students/react-jsx-lab-cb-000/pull/31) in [learn-co-students/react-jsx-lab-cb-000](https://github.com/learn-co-students/react-jsx-lab-cb-000)
-2. 💪 Opened PR [#31](https://github.com/learn-co-students/react-components-lab-cb-000/pull/31) in [learn-co-students/react-components-lab-cb-000](https://github.com/learn-co-students/react-components-lab-cb-000)
-3. 💪 Opened PR [#40](https://github.com/learn-co-students/react-create-element-lab-cb-000/pull/40) in [learn-co-students/react-create-element-lab-cb-000](https://github.com/learn-co-students/react-create-element-lab-cb-000)
-4. 💪 Opened PR [#22](https://github.com/learn-co-students/react-create-element-cb-000/pull/22) in [learn-co-students/react-create-element-cb-000](https://github.com/learn-co-students/react-create-element-cb-000)
-5. 💪 Opened PR [#37](https://github.com/learn-co-students/receiving-api-posts-lab-cb-000/pull/37) in [learn-co-students/receiving-api-posts-lab-cb-000](https://github.com/learn-co-students/receiving-api-posts-lab-cb-000)
+1. 💪 Opened PR [#26](https://github.com/learn-co-students/react-props-cb-000/pull/26) in [learn-co-students/react-props-cb-000](https://github.com/learn-co-students/react-props-cb-000)
+2. 💪 Opened PR [#31](https://github.com/learn-co-students/react-jsx-lab-cb-000/pull/31) in [learn-co-students/react-jsx-lab-cb-000](https://github.com/learn-co-students/react-jsx-lab-cb-000)
+3. 💪 Opened PR [#31](https://github.com/learn-co-students/react-components-lab-cb-000/pull/31) in [learn-co-students/react-components-lab-cb-000](https://github.com/learn-co-students/react-components-lab-cb-000)
+4. 💪 Opened PR [#40](https://github.com/learn-co-students/react-create-element-lab-cb-000/pull/40) in [learn-co-students/react-create-element-lab-cb-000](https://github.com/learn-co-students/react-create-element-lab-cb-000)
+5. 💪 Opened PR [#22](https://github.com/learn-co-students/react-create-element-cb-000/pull/22) in [learn-co-students/react-create-element-cb-000](https://github.com/learn-co-students/react-create-element-cb-000)
 <!--END_SECTION:activity-->
     <img width="350" align="center" src="https://github-readme-stats.vercel.app/api?username=andreajasper&show_icons=true&theme=vision-friendly-dark">
   </a>
