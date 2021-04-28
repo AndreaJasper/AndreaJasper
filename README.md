@@ -13,10 +13,10 @@ I'm Andrea, a Full-stack Rails developer in the United States.
 <p align=left>
   <a href="https://github.com/andreajasper/github-readme-stats" title="Go to Source">
     <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/learn-co-students/react-rendering-lab-cb-000/pull/33) in [learn-co-students/react-rendering-lab-cb-000](https://github.com/learn-co-students/react-rendering-lab-cb-000)
-2. 💪 Opened PR [#27](https://github.com/learn-co-students/react-component-mounting-and-unmounting-lab-cb-000/pull/27) in [learn-co-students/react-component-mounting-and-unmounting-lab-cb-000](https://github.com/learn-co-students/react-component-mounting-and-unmounting-lab-cb-000)
-3. 💪 Opened PR [#32](https://github.com/learn-co-students/react-props-and-state-lab-cb-000/pull/32) in [learn-co-students/react-props-and-state-lab-cb-000](https://github.com/learn-co-students/react-props-and-state-lab-cb-000)
-4. 💪 Opened PR [#33](https://github.com/learn-co-students/react-updating-state-cb-000/pull/33) in [learn-co-students/react-updating-state-cb-000](https://github.com/learn-co-students/react-updating-state-cb-000)
+1. 💪 Opened PR [#24](https://github.com/learn-co-students/react-component-lifecycle-lab-cb-000/pull/24) in [learn-co-students/react-component-lifecycle-lab-cb-000](https://github.com/learn-co-students/react-component-lifecycle-lab-cb-000)
+2. 💪 Opened PR [#33](https://github.com/learn-co-students/react-rendering-lab-cb-000/pull/33) in [learn-co-students/react-rendering-lab-cb-000](https://github.com/learn-co-students/react-rendering-lab-cb-000)
+3. 💪 Opened PR [#27](https://github.com/learn-co-students/react-component-mounting-and-unmounting-lab-cb-000/pull/27) in [learn-co-students/react-component-mounting-and-unmounting-lab-cb-000](https://github.com/learn-co-students/react-component-mounting-and-unmounting-lab-cb-000)
+4. 💪 Opened PR [#32](https://github.com/learn-co-students/react-props-and-state-lab-cb-000/pull/32) in [learn-co-students/react-props-and-state-lab-cb-000](https://github.com/learn-co-students/react-props-and-state-lab-cb-000)
 5. 💪 Opened PR [#26](https://github.com/learn-co-students/react-initial-state-cb-000/pull/26) in [learn-co-students/react-initial-state-cb-000](https://github.com/learn-co-students/react-initial-state-cb-000)
 <!--END_SECTION:activity-->
     <img width="350" align="center" src="https://github-readme-stats.vercel.app/api?username=andreajasper&show_icons=true&theme=vision-friendly-dark">
