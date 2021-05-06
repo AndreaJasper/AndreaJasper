@@ -13,9 +13,9 @@ I'm Andrea, a Full-stack Rails developer in the United States.
 <p align=left>
   <a href="https://github.com/andreajasper/github-readme-stats" title="Go to Source">
     <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/learn-co-students/react-unidirectional-data-lab-cb-000/pull/15) in [learn-co-students/react-unidirectional-data-lab-cb-000](https://github.com/learn-co-students/react-unidirectional-data-lab-cb-000)
-2. 💪 Opened PR [#17](https://github.com/learn-co-students/react-stores-lab-cb-000/pull/17) in [learn-co-students/react-stores-lab-cb-000](https://github.com/learn-co-students/react-stores-lab-cb-000)
-3. 💪 Opened PR [#24](https://github.com/learn-co-students/react-component-lifecycle-lab-cb-000/pull/24) in [learn-co-students/react-component-lifecycle-lab-cb-000](https://github.com/learn-co-students/react-component-lifecycle-lab-cb-000)
+1. 💪 Opened PR [#15](https://github.com/learn-co-students/react-type-ahead-wikipedia-search-lab-cb-000/pull/15) in [learn-co-students/react-type-ahead-wikipedia-search-lab-cb-000](https://github.com/learn-co-students/react-type-ahead-wikipedia-search-lab-cb-000)
+2. 💪 Opened PR [#15](https://github.com/learn-co-students/react-unidirectional-data-lab-cb-000/pull/15) in [learn-co-students/react-unidirectional-data-lab-cb-000](https://github.com/learn-co-students/react-unidirectional-data-lab-cb-000)
+3. 💪 Opened PR [#17](https://github.com/learn-co-students/react-stores-lab-cb-000/pull/17) in [learn-co-students/react-stores-lab-cb-000](https://github.com/learn-co-students/react-stores-lab-cb-000)
 4. 💪 Opened PR [#33](https://github.com/learn-co-students/react-rendering-lab-cb-000/pull/33) in [learn-co-students/react-rendering-lab-cb-000](https://github.com/learn-co-students/react-rendering-lab-cb-000)
 5. 💪 Opened PR [#27](https://github.com/learn-co-students/react-component-mounting-and-unmounting-lab-cb-000/pull/27) in [learn-co-students/react-component-mounting-and-unmounting-lab-cb-000](https://github.com/learn-co-students/react-component-mounting-and-unmounting-lab-cb-000)
 <!--END_SECTION:activity-->
