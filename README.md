@@ -13,11 +13,11 @@ I'm Andrea, a Full-stack Rails developer in the United States.
 <p align=left>
   <a href="https://github.com/andreajasper/github-readme-stats" title="Go to Source">
     <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/learn-co-students/react-what-the-flux-cb-000/pull/12) in [learn-co-students/react-what-the-flux-cb-000](https://github.com/learn-co-students/react-what-the-flux-cb-000)
-2. 💪 Opened PR [#20](https://github.com/learn-co-students/react-passing-props-lab-cb-000/pull/20) in [learn-co-students/react-passing-props-lab-cb-000](https://github.com/learn-co-students/react-passing-props-lab-cb-000)
-3. 💪 Opened PR [#28](https://github.com/learn-co-students/react-presentation-components-lab-cb-000/pull/28) in [learn-co-students/react-presentation-components-lab-cb-000](https://github.com/learn-co-students/react-presentation-components-lab-cb-000)
-4. 💪 Opened PR [#23](https://github.com/learn-co-students/react-container-components-lab-cb-000/pull/23) in [learn-co-students/react-container-components-lab-cb-000](https://github.com/learn-co-students/react-container-components-lab-cb-000)
-5. 💪 Opened PR [#15](https://github.com/learn-co-students/react-type-ahead-wikipedia-search-lab-cb-000/pull/15) in [learn-co-students/react-type-ahead-wikipedia-search-lab-cb-000](https://github.com/learn-co-students/react-type-ahead-wikipedia-search-lab-cb-000)
+1. 💪 Opened PR [#14](https://github.com/learn-co-students/react-redux-actions-and-action-creators-lab-cb-000/pull/14) in [learn-co-students/react-redux-actions-and-action-creators-lab-cb-000](https://github.com/learn-co-students/react-redux-actions-and-action-creators-lab-cb-000)
+2. 💪 Opened PR [#12](https://github.com/learn-co-students/react-what-the-flux-cb-000/pull/12) in [learn-co-students/react-what-the-flux-cb-000](https://github.com/learn-co-students/react-what-the-flux-cb-000)
+3. 💪 Opened PR [#20](https://github.com/learn-co-students/react-passing-props-lab-cb-000/pull/20) in [learn-co-students/react-passing-props-lab-cb-000](https://github.com/learn-co-students/react-passing-props-lab-cb-000)
+4. 💪 Opened PR [#28](https://github.com/learn-co-students/react-presentation-components-lab-cb-000/pull/28) in [learn-co-students/react-presentation-components-lab-cb-000](https://github.com/learn-co-students/react-presentation-components-lab-cb-000)
+5. 💪 Opened PR [#23](https://github.com/learn-co-students/react-container-components-lab-cb-000/pull/23) in [learn-co-students/react-container-components-lab-cb-000](https://github.com/learn-co-students/react-container-components-lab-cb-000)
 <!--END_SECTION:activity-->
     <img width="350" align="center" src="https://github-readme-stats.vercel.app/api?username=andreajasper&show_icons=true&theme=vision-friendly-dark">
   </a>
