@@ -13,7 +13,7 @@ I'm Andrea, a Full-stack Rails developer in the United States.
 <p align=left>
   <a href="https://github.com/andreajasper/github-readme-stats" title="Go to Source">
     <!--START_SECTION:activity-->
-1. 💪 Opened PR [#76](https://github.com/learn-co-students/rails-resource-and-scaffold-generator-cb-000/pull/76) in [learn-co-students/rails-resource-and-scaffold-generator-cb-000](https://github.com/learn-co-students/rails-resource-and-scaffold-generator-cb-000)
+1. 💪 Opened PR [#14](https://github.com/learn-co-students/react-redux-intro-lab-cb-000/pull/14) in [learn-co-students/react-redux-intro-lab-cb-000](https://github.com/learn-co-students/react-redux-intro-lab-cb-000)
 2. 💪 Opened PR [#13](https://github.com/learn-co-students/putting-it-all-together-lab-cb-000/pull/13) in [learn-co-students/putting-it-all-together-lab-cb-000](https://github.com/learn-co-students/putting-it-all-together-lab-cb-000)
 3. 💪 Opened PR [#14](https://github.com/learn-co-students/components-actions-and-stores-lab-cb-000/pull/14) in [learn-co-students/components-actions-and-stores-lab-cb-000](https://github.com/learn-co-students/components-actions-and-stores-lab-cb-000)
 4. 💪 Opened PR [#18](https://github.com/learn-co-students/react-redux-create-store-cb-000/pull/18) in [learn-co-students/react-redux-create-store-cb-000](https://github.com/learn-co-students/react-redux-create-store-cb-000)
