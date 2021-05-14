@@ -13,11 +13,11 @@ I'm Andrea, a Full-stack Rails developer in the United States.
 <p align=left>
   <a href="https://github.com/andreajasper/github-readme-stats" title="Go to Source">
     <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/learn-co-students/node-arguments-lab-cb-000/pull/12) in [learn-co-students/node-arguments-lab-cb-000](https://github.com/learn-co-students/node-arguments-lab-cb-000)
-2. 💪 Opened PR [#14](https://github.com/learn-co-students/node-process-lab-cb-000/pull/14) in [learn-co-students/node-process-lab-cb-000](https://github.com/learn-co-students/node-process-lab-cb-000)
-3. 💪 Opened PR [#14](https://github.com/learn-co-students/node-debugger-lab-cb-000/pull/14) in [learn-co-students/node-debugger-lab-cb-000](https://github.com/learn-co-students/node-debugger-lab-cb-000)
-4. 💪 Opened PR [#17](https://github.com/learn-co-students/node-hello-world-lab-cb-000/pull/17) in [learn-co-students/node-hello-world-lab-cb-000](https://github.com/learn-co-students/node-hello-world-lab-cb-000)
-5. 💪 Opened PR [#25](https://github.com/learn-co-students/node-install-lab-cb-000/pull/25) in [learn-co-students/node-install-lab-cb-000](https://github.com/learn-co-students/node-install-lab-cb-000)
+1. 💪 Opened PR [#13](https://github.com/learn-co-students/node-timer-lab-cb-000/pull/13) in [learn-co-students/node-timer-lab-cb-000](https://github.com/learn-co-students/node-timer-lab-cb-000)
+2. 💪 Opened PR [#12](https://github.com/learn-co-students/node-arguments-lab-cb-000/pull/12) in [learn-co-students/node-arguments-lab-cb-000](https://github.com/learn-co-students/node-arguments-lab-cb-000)
+3. 💪 Opened PR [#14](https://github.com/learn-co-students/node-process-lab-cb-000/pull/14) in [learn-co-students/node-process-lab-cb-000](https://github.com/learn-co-students/node-process-lab-cb-000)
+4. 💪 Opened PR [#14](https://github.com/learn-co-students/node-debugger-lab-cb-000/pull/14) in [learn-co-students/node-debugger-lab-cb-000](https://github.com/learn-co-students/node-debugger-lab-cb-000)
+5. 💪 Opened PR [#17](https://github.com/learn-co-students/node-hello-world-lab-cb-000/pull/17) in [learn-co-students/node-hello-world-lab-cb-000](https://github.com/learn-co-students/node-hello-world-lab-cb-000)
 <!--END_SECTION:activity-->
     <img width="350" align="center" src="https://github-readme-stats.vercel.app/api?username=andreajasper&show_icons=true&theme=vision-friendly-dark">
   </a>
