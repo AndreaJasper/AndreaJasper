@@ -13,7 +13,7 @@ I'm Andrea, a Full-stack Rails developer in the United States.
 <p align=left>
   <!--<a href="https://github.com/andreajasper/github-readme-stats" title="Go to Source">-->
     <!--START_SECTION:activity-->
-<!--1. 💪 Opened PR [#11](https://github.com/learn-co-students/node-js-slackbot-cb-000/pull/11) in [learn-co-students/node-js-slackbot-cb-000](https://github.com/learn-co-students/node-js-slackbot-cb-000)
+1. 💪 Opened PR [#11](https://github.com/learn-co-students/node-js-slackbot-cb-000/pull/11) in [learn-co-students/node-js-slackbot-cb-000](https://github.com/learn-co-students/node-js-slackbot-cb-000)
 2. 💪 Opened PR [#13](https://github.com/learn-co-students/node-js-basic-web-server-cb-000/pull/13) in [learn-co-students/node-js-basic-web-server-cb-000](https://github.com/learn-co-students/node-js-basic-web-server-cb-000)
 3. 💪 Opened PR [#10](https://github.com/learn-co-students/node-js-fix-the-dependencies-cb-000/pull/10) in [learn-co-students/node-js-fix-the-dependencies-cb-000](https://github.com/learn-co-students/node-js-fix-the-dependencies-cb-000)
 4. 💪 Opened PR [#13](https://github.com/learn-co-students/node-js-npm-lab-cb-000/pull/13) in [learn-co-students/node-js-npm-lab-cb-000](https://github.com/learn-co-students/node-js-npm-lab-cb-000)
