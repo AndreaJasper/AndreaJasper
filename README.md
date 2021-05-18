@@ -13,11 +13,11 @@ I'm Andrea, a Full-stack Rails developer in the United States.
 <p align=left>
   <!--<a href="https://github.com/andreajasper/github-readme-stats" title="Go to Source">-->
     <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/learn-co-students/js-basics-logging-lab-cb-000/pull/22) in [learn-co-students/js-basics-logging-lab-cb-000](https://github.com/learn-co-students/js-basics-logging-lab-cb-000)
-2. 💪 Opened PR [#22](https://github.com/learn-co-students/js-basics-functions-lab-cb-000/pull/22) in [learn-co-students/js-basics-functions-lab-cb-000](https://github.com/learn-co-students/js-basics-functions-lab-cb-000)
-3. 💪 Opened PR [#25](https://github.com/learn-co-students/js-basics-control-flow-lab-cb-000/pull/25) in [learn-co-students/js-basics-control-flow-lab-cb-000](https://github.com/learn-co-students/js-basics-control-flow-lab-cb-000)
-4. 💪 Opened PR [#23](https://github.com/learn-co-students/js-basics-arithmetic-lab-cb-000/pull/23) in [learn-co-students/js-basics-arithmetic-lab-cb-000](https://github.com/learn-co-students/js-basics-arithmetic-lab-cb-000)
-5. 💪 Opened PR [#24](https://github.com/learn-co-students/js-basics-strings-code-along-cb-000/pull/24) in [learn-co-students/js-basics-strings-code-along-cb-000](https://github.com/learn-co-students/js-basics-strings-code-along-cb-000)
+1. 💪 Opened PR [#19](https://github.com/learn-co-students/js-object-oriented-constructor-functions-lab-cb-000/pull/19) in [learn-co-students/js-object-oriented-constructor-functions-lab-cb-000](https://github.com/learn-co-students/js-object-oriented-constructor-functions-lab-cb-000)
+2. 💪 Opened PR [#18](https://github.com/learn-co-students/js-advanced-first-class-functions-practice-lab-cb-000/pull/18) in [learn-co-students/js-advanced-first-class-functions-practice-lab-cb-000](https://github.com/learn-co-students/js-advanced-first-class-functions-practice-lab-cb-000)
+3. 💪 Opened PR [#19](https://github.com/learn-co-students/js-advanced-functions-first-class-functions-lab-cb-000/pull/19) in [learn-co-students/js-advanced-functions-first-class-functions-lab-cb-000](https://github.com/learn-co-students/js-advanced-functions-first-class-functions-lab-cb-000)
+4. 💪 Opened PR [#18](https://github.com/learn-co-students/js-looping-and-iteration-filter-and-map-lab-cb-000/pull/18) in [learn-co-students/js-looping-and-iteration-filter-and-map-lab-cb-000](https://github.com/learn-co-students/js-looping-and-iteration-filter-and-map-lab-cb-000)
+5. 💪 Opened PR [#18](https://github.com/learn-co-students/js-looping-and-iteration-map-lab-cb-000/pull/18) in [learn-co-students/js-looping-and-iteration-map-lab-cb-000](https://github.com/learn-co-students/js-looping-and-iteration-map-lab-cb-000)
 <!--END_SECTION:activity-->
     <img width="350" align="center" src="https://github-readme-stats.vercel.app/api?username=andreajasper&show_icons=true&theme=vision-friendly-dark">
   </a>
