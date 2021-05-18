@@ -13,11 +13,11 @@ I'm Andrea, a Full-stack Rails developer in the United States.
 <p align=left>
   <!--<a href="https://github.com/andreajasper/github-readme-stats" title="Go to Source">-->
     <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](https://github.com/learn-co-students/js-object-oriented-constructor-functions-lab-cb-000/pull/19) in [learn-co-students/js-object-oriented-constructor-functions-lab-cb-000](https://github.com/learn-co-students/js-object-oriented-constructor-functions-lab-cb-000)
-2. 💪 Opened PR [#18](https://github.com/learn-co-students/js-advanced-first-class-functions-practice-lab-cb-000/pull/18) in [learn-co-students/js-advanced-first-class-functions-practice-lab-cb-000](https://github.com/learn-co-students/js-advanced-first-class-functions-practice-lab-cb-000)
-3. 💪 Opened PR [#19](https://github.com/learn-co-students/js-advanced-functions-first-class-functions-lab-cb-000/pull/19) in [learn-co-students/js-advanced-functions-first-class-functions-lab-cb-000](https://github.com/learn-co-students/js-advanced-functions-first-class-functions-lab-cb-000)
-4. 💪 Opened PR [#18](https://github.com/learn-co-students/js-looping-and-iteration-filter-and-map-lab-cb-000/pull/18) in [learn-co-students/js-looping-and-iteration-filter-and-map-lab-cb-000](https://github.com/learn-co-students/js-looping-and-iteration-filter-and-map-lab-cb-000)
-5. 💪 Opened PR [#18](https://github.com/learn-co-students/js-looping-and-iteration-map-lab-cb-000/pull/18) in [learn-co-students/js-looping-and-iteration-map-lab-cb-000](https://github.com/learn-co-students/js-looping-and-iteration-map-lab-cb-000)
+1. 💪 Opened PR [#14](https://github.com/learn-co-students/js-templates-advanced-templating-lab-cb-000/pull/14) in [learn-co-students/js-templates-advanced-templating-lab-cb-000](https://github.com/learn-co-students/js-templates-advanced-templating-lab-cb-000)
+2. 💪 Opened PR [#17](https://github.com/learn-co-students/js-templates-advanced-templating-readme-cb-000/pull/17) in [learn-co-students/js-templates-advanced-templating-readme-cb-000](https://github.com/learn-co-students/js-templates-advanced-templating-readme-cb-000)
+3. 💪 Opened PR [#16](https://github.com/learn-co-students/js-templates-template-engines-lab-cb-000/pull/16) in [learn-co-students/js-templates-template-engines-lab-cb-000](https://github.com/learn-co-students/js-templates-template-engines-lab-cb-000)
+4. 💪 Opened PR [#14](https://github.com/learn-co-students/js-dom-and-events-acting-on-events-lab-cb-000/pull/14) in [learn-co-students/js-dom-and-events-acting-on-events-lab-cb-000](https://github.com/learn-co-students/js-dom-and-events-acting-on-events-lab-cb-000)
+5. 💪 Opened PR [#17](https://github.com/learn-co-students/js-dom-and-events-advanced-selectors-readme-cb-000/pull/17) in [learn-co-students/js-dom-and-events-advanced-selectors-readme-cb-000](https://github.com/learn-co-students/js-dom-and-events-advanced-selectors-readme-cb-000)
 <!--END_SECTION:activity-->
     <img width="350" align="center" src="https://github-readme-stats.vercel.app/api?username=andreajasper&show_icons=true&theme=vision-friendly-dark">
   </a>
