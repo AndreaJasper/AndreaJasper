@@ -13,7 +13,7 @@ I'm Andrea, a Full-stack Rails developer in the United States.
 <p align=left>
   <!--<a href="https://github.com/andreajasper/github-readme-stats" title="Go to Source">-->
     <!--START_SECTION:activity-->
-1. 💪 Opened PR [#28](https://github.com/learn-co-students/js-tictactoe-rails-api-backend-cb-000/pull/28) in [learn-co-students/js-tictactoe-rails-api-backend-cb-000](https://github.com/learn-co-students/js-tictactoe-rails-api-backend-cb-000)
+1. 💪 Opened PR [#26](https://github.com/learn-co-students/js-tictactoe-rails-api-cb-000/pull/26) in [learn-co-students/js-tictactoe-rails-api-cb-000](https://github.com/learn-co-students/js-tictactoe-rails-api-cb-000)
 2. 💪 Opened PR [#16](https://github.com/learn-co-students/js-advanced-functions-intro-to-mocha-readme-cb-000/pull/16) in [learn-co-students/js-advanced-functions-intro-to-mocha-readme-cb-000](https://github.com/learn-co-students/js-advanced-functions-intro-to-mocha-readme-cb-000)
 3. 💪 Opened PR [#16](https://github.com/learn-co-students/js-ajax-fetch-lab-cb-000/pull/16) in [learn-co-students/js-ajax-fetch-lab-cb-000](https://github.com/learn-co-students/js-ajax-fetch-lab-cb-000)
 4. 💪 Opened PR [#15](https://github.com/learn-co-students/js-ajax-ajax-and-callbacks-lab-cb-000/pull/15) in [learn-co-students/js-ajax-ajax-and-callbacks-lab-cb-000](https://github.com/learn-co-students/js-ajax-ajax-and-callbacks-lab-cb-000)
