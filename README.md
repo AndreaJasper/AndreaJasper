@@ -14,9 +14,7 @@ I'm Andrea, a Full-stack Rails developer in the United States.
   <!--<a href="https://github.com/andreajasper/github-readme-stats" title="Go to Source">-->
     <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#7](https://github.com/AndreaJasper/Sinatra-Workorder-App/pull/7) in [AndreaJasper/Sinatra-Workorder-App](https://github.com/AndreaJasper/Sinatra-Workorder-App)
-  
 2. 🎉 Merged PR [#9](https://github.com/AndreaJasper/Sinatra-Workorder-App/pull/9) in [AndreaJasper/Sinatra-Workorder-App](https://github.com/AndreaJasper/Sinatra-Workorder-App)
-  
 3. 💪 Opened PR [#12](https://github.com/learn-co-students/redux-thunk-lab-cb-000/pull/12) in [learn-co-students/redux-thunk-lab-cb-000](https://github.com/learn-co-students/redux-thunk-lab-cb-000)
 4. 💪 Opened PR [#13](https://github.com/learn-co-students/quote-maker-react-lab-cb-000/pull/13) in [learn-co-students/quote-maker-react-lab-cb-000](https://github.com/learn-co-students/quote-maker-react-lab-cb-000)
 5. 💪 Opened PR [#10](https://github.com/learn-co-students/combine-reducers-cb-000/pull/10) in [learn-co-students/combine-reducers-cb-000](https://github.com/learn-co-students/combine-reducers-cb-000)
