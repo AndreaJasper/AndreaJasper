@@ -10,3 +10,4 @@ I'm Andrea, a Full-stack Rails developer in the United States.
 
 ---
 
+[![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreajasper&show_icons=true&theme=highcontrast )](https://github.com/anuraghazra/github-readme-stats)
