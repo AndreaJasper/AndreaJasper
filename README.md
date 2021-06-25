@@ -1,5 +1,9 @@
 # Hi! Thanks for stopping by.
 
+<div align="center">
+  <img width="100%" src="https://github.com/andreajasper/andreajasper/blob/master/assets/Github-banner.png" alt="cover" />
+</div>
+
 My name is Andrea and I’m a full-stack developer with a background in Project Management. 
 
 ![](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=6c88c4)
