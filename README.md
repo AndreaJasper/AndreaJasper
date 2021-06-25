@@ -1,8 +1,9 @@
 # Hi! Thanks for stopping by.
 
 <div align="center">
-  <img width="100%" src="https://github.com/andreajasper/andreajasper/blob/master/assets/Github-banner.png" alt="cover" />
+  <img width="100%" src="https://github.com/AndreaJasper/AndreaJasper/blob/branding-updates/images/Github-banner.png" alt="cover" />
 </div>
+<br>
 
 My name is Andrea and I’m a full-stack developer with a background in Project Management. 
 
