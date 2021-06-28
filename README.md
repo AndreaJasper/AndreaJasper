@@ -1,11 +1,12 @@
 # Hi! Thanks for stopping by.
-
+<!--
 <div align="center">
   <img width="100%" src="https://github.com/AndreaJasper/AndreaJasper/blob/branding-updates/images/hero-banner.png" alt="cover" />
 </div>
+-->
 <br>
 
-My name is Andrea and I’m a full-stack developer with a background in Project Management. 
+Hi all! My name is Andrea and I’m a Full-Stack developer with a background in Front-End development and Project Management. I currently work in Ruby and expanding into JavaScript/React. Learning is a passion of mine that I persue enthusiastically and allows me to grow in fun and unexpected ways.
 
 ![](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=6c88c4)
 
