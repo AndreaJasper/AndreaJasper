@@ -1,22 +1,41 @@
-# Hi! Nice of you to stop by.
+# Hi! Thanks for stopping by.
+<!--
+<div align="center">
+  <img width="100%" src="https://github.com/AndreaJasper/AndreaJasper/blob/branding-updates/images/hero-banner.png" alt="cover" />
+</div>
+-->
+<br>
 
-I'm Andrea, a Full-stack Rails developer in the United States.
+Hi all! My name is Andrea and I’m a Full-Stack developer with a background in Front-End development and Project Management. I currently work in Ruby and expanding into JavaScript/React. Learning is a passion of mine that I persue enthusiastically and allows me to grow in fun and unexpected ways.
 
-<a href="https://linkedin.com/in/andrea-jasper" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
+![](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=6c88c4)
 
 ---
 
 ### What I'm working with:
-<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img alt="Ruby on Rails" src="https://img.shields.io/badge/-RAILS-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" /> <img alt="SASS" src="https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />  <img alt="Slack" src="https://img.shields.io/badge/-SLACK-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> <img alt="SQLite" src="https://img.shields.io/badge/-SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img alt="UIKit" src="https://img.shields.io/badge/-UIKIT-2396F3?style=for-the-badge&logo=uikit&logoColor=white" />
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS_CODE-2396F3?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+![](https://img.shields.io/badge/-HTML5-informational?style=for-the-badge&logo=html5&logoColor=6c88c4&color=212631)
+![](https://img.shields.io/badge/-Rails-informational?style=for-the-badge&logo=ruby-on-rails&logoColor=6c88c4&color=212631)
+![](https://img.shields.io/badge/-Sass-informational?style=for-the-badge&logo=sass&logoColor=6c88c4&color=212631)
+![](https://img.shields.io/badge/-CSS3-informational?style=for-the-badge&logo=css3&logoColor=6c88c4&color=212631)
+![](https://img.shields.io/badge/-UiKit-informational?style=for-the-badge&logo=uikit&logoColor=6c88c4&color=212631)
+![](https://img.shields.io/badge/-SQlite-informational?style=for-the-badge&logo=sqlite&logoColor=6c88c4&color=212631)
+![](https://img.shields.io/badge/-Slack-informational?style=for-the-badge&logo=slack&logoColor=6c88c4&color=212631)
+![](https://img.shields.io/badge/-GitHub-informational?style=for-the-badge&logo=github&logoColor=6c88c4&color=212631)
+![](https://img.shields.io/badge/-VS_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=6c88c4&color=212631)
 
 ### Interested in learning/imporoving on:
-<img src="https://img.shields.io/badge/REACT-%2300D9FF?&style=for-the-badge&logo=react&logoColor=white" /> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+![](https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=6c88c4&color=212631)
+![](https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=react&logoColor=6c88c4&color=212631)
+![](https://img.shields.io/badge/-Mongo_DB-informational?style=for-the-badge&logo=mongo-db&logoColor=6c88c4&color=212631)
 
 ### Previously worked with:
-<img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img alt="Bootstrap" src="https://img.shields.io/badge/-BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/> <img alt="Wordpress" src="https://img.shields.io/badge/-WORDPRESS-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+![](https://img.shields.io/badge/-Redux-informational?style=for-the-badge&logo=redux&logoColor=6c88c4&color=212631)
+![](https://img.shields.io/badge/-Node-informational?style=for-the-badge&logo=node&logoColor=6c88c4&color=212631)
+![](https://img.shields.io/badge/-PHP-informational?style=for-the-badge&logo=php&logoColor=6c88c4&color=212631)
+![](https://img.shields.io/badge/-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=6c88c4&color=212631)
+![](https://img.shields.io/badge/-WordPress-informational?style=for-the-badge&logo=wordpress&logoColor=6c88c4&color=212631)
 
 ---
-![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreajasper&theme=dracula&show_icons=true&hide=issues,stars) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreajasper&layout=compact&theme=dracula&hide=c%23,css,php,hack,shell)](https://github.com/AndreaJasper/github-readme-stats)
+![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreajasper&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=6c88c4&bg_color=212631&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreajasper&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=212631&langs_count=3)](https://github.com/AndreaJasper/github-readme-stats)
 
 
