@@ -1,7 +1,7 @@
 # Hi! Thanks for stopping by.
 
 <div align="center">
-  <img width="100%" src="https://github.com/AndreaJasper/AndreaJasper/blob/branding-updates/images/Github-banner.png" alt="cover" />
+  <img width="100%" src="https://github.com/AndreaJasper/AndreaJasper/blob/branding-updates/images/hero-banner.png" alt="cover" />
 </div>
 <br>
 
