@@ -12,12 +12,12 @@ My name is Andrea and I’m a full-stack developer with a background in Project 
 ---
 
 ### What I'm working with:
-![](https://img.shields.io/badge/-HTML5-informational?style=for-the-badge&logo=html5&logoColor=6c88c4&color=393f4c)
-![](https://img.shields.io/badge/-Rails-informational?style=for-the-badge&logo=ruby-on-rails&logoColor=6c88c4&color=393f4c)
-![](https://img.shields.io/badge/-Sass-informational?style=for-the-badge&logo=sass&logoColor=6c88c4&color=393f4c)
-![](https://img.shields.io/badge/-CSS3-informational?style=for-the-badge&logo=css3&logoColor=6c88c4&color=393f4c)
-![](https://img.shields.io/badge/-UiKit-informational?style=for-the-badge&logo=uikit&logoColor=6c88c4&color=393f4c)
-![](https://img.shields.io/badge/-SQlite-informational?style=for-the-badge&logo=sqlite&logoColor=6c88c4&color=393f4c)
+![](https://img.shields.io/badge/-HTML5-informational?style=for-the-badge&logo=html5&logoColor=6c88c4&color=181c25)
+![](https://img.shields.io/badge/-Rails-informational?style=for-the-badge&logo=ruby-on-rails&logoColor=6c88c4&color=181c25)
+![](https://img.shields.io/badge/-Sass-informational?style=for-the-badge&logo=sass&logoColor=6c88c4&color=181c25)
+![](https://img.shields.io/badge/-CSS3-informational?style=for-the-badge&logo=css3&logoColor=6c88c4&color=0c1322)
+![](https://img.shields.io/badge/-UiKit-informational?style=for-the-badge&logo=uikit&logoColor=6c88c4&color=0c1322)
+![](https://img.shields.io/badge/-SQlite-informational?style=for-the-badge&logo=sqlite&logoColor=6c88c4&color=0c1322)
 ![](https://img.shields.io/badge/-Slack-informational?style=for-the-badge&logo=slack&logoColor=6c88c4&color=393f4c)
 ![](https://img.shields.io/badge/-GitHub-informational?style=for-the-badge&logo=github&logoColor=6c88c4&color=393f4c)
 ![](https://img.shields.io/badge/-VS_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=6c88c4&color=393f4c)
