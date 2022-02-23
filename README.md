@@ -6,7 +6,7 @@
 -->
 <br>
 
-Hi all! My name is Andrea and I’m a Full-Stack developer with a background in Front-End development and Project Management. I currently work in Ruby and expanding into JavaScript/React. Learning is a passion of mine that I persue enthusiastically and allows me to grow in fun and unexpected ways.
+Hi all! My name is Andrea and I’m a Full-Stack developer with a background in Front-End development and Project Management. I currently work in React on Rails, but I'm expanding into Go. Learning is a passion of mine that I persue enthusiastically and allows me to grow in fun and unexpected ways.
 
 ![](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=6c88c4)
 
@@ -15,18 +15,18 @@ Hi all! My name is Andrea and I’m a Full-Stack developer with a background in 
 ### What I'm working with:
 ![](https://img.shields.io/badge/-HTML5-informational?style=for-the-badge&logo=html5&logoColor=6c88c4&color=212631)
 ![](https://img.shields.io/badge/-Rails-informational?style=for-the-badge&logo=ruby-on-rails&logoColor=6c88c4&color=212631)
+![](https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=6c88c4&color=212631)
 ![](https://img.shields.io/badge/-Sass-informational?style=for-the-badge&logo=sass&logoColor=6c88c4&color=212631)
 ![](https://img.shields.io/badge/-CSS3-informational?style=for-the-badge&logo=css3&logoColor=6c88c4&color=212631)
-![](https://img.shields.io/badge/-UiKit-informational?style=for-the-badge&logo=uikit&logoColor=6c88c4&color=212631)
 ![](https://img.shields.io/badge/-SQlite-informational?style=for-the-badge&logo=sqlite&logoColor=6c88c4&color=212631)
 ![](https://img.shields.io/badge/-Slack-informational?style=for-the-badge&logo=slack&logoColor=6c88c4&color=212631)
 ![](https://img.shields.io/badge/-GitHub-informational?style=for-the-badge&logo=github&logoColor=6c88c4&color=212631)
 ![](https://img.shields.io/badge/-VS_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=6c88c4&color=212631)
 
 ### Interested in learning/imporoving on:
-![](https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=6c88c4&color=212631)
 ![](https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=react&logoColor=6c88c4&color=212631)
 ![](https://img.shields.io/badge/-Mongo_DB-informational?style=for-the-badge&logo=mongo-db&logoColor=6c88c4&color=212631)
+![](https://img.shields.io/badge/-Go-informational?style=for-the-badge&logo=go&logoColor=6c88c4&color=212631)
 
 ### Previously worked with:
 ![](https://img.shields.io/badge/-Redux-informational?style=for-the-badge&logo=redux&logoColor=6c88c4&color=212631)
