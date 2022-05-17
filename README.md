@@ -1,3 +1,5 @@
+![Hero banner for Andrea Jasper](https://github.com/AndreaJasper/AndreaJasper/blob/master/images/GH-banner-small.png)
+
 # Hi! Thanks for stopping by.
 <!--
 <div align="center">
