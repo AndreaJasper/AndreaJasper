@@ -1,4 +1,4 @@
-![Hero banner for Andrea Jasper](https://github.com/AndreaJasper/AndreaJasper/upload/master/images/GH-banner.png?raw=true)
+![Hero banner for Andrea Jasper](https://github.com/AndreaJasper/AndreaJasper/blob/master/images/GH-banner-small.png)
 
 # Hi! Thanks for stopping by.
 <!--
