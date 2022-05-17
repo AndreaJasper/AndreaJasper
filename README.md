@@ -6,7 +6,7 @@
 -->
 <br>
 
-Hi all! My name is Andrea and I’m a Full-Stack developer with a background in Front-End development and Project Management. I currently work in React on Rails, but I'm expanding into Go. Learning is a passion of mine that I persue enthusiastically and allows me to grow in fun and unexpected ways.
+Hi all! My name is Andrea and I’m a software developer with a background in front-End development and Project Management. I currently work in React on Rails, but exploring other languages and frameworks. Learning is a passion of mine that I persue enthusiastically and allows me to grow in fun and unexpected ways.
 
 ![](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=6c88c4)
 
