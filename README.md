@@ -10,11 +10,12 @@
 
 Hi all! My name is Andrea and I’m a software developer with a background in front-end development and tech Project Management. I currently work in Ruby on Rails and expanding into React. Learning is a passion of mine that I persue enthusiastically and allows me to grow in fun and unexpected ways.
 
-![](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=ae62d2)
-
+![](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/andrea-jasper/&logoColor=white&color=ae62d2)
+![](https://img.shields.io/badge/Website-informational?style=for-the-badge&logo=website&link=http://andreajasper.com&logoColor=white&color=ae62d2)
 ---
 
 ### Tech Stack
+
 ![](https://img.shields.io/badge/-Rails-informational?style=for-the-badge&logo=ruby-on-rails&logoColor=white&color=ae62d2)
 ![](https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=react&logoColor=white&color=ae62d2)
 ![](https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=ae62d2)
@@ -29,4 +30,7 @@ Hi all! My name is Andrea and I’m a software developer with a background in fr
 ![](https://img.shields.io/badge/-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=ae62d2)
 
 
+### My GitHub Stats
+![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaJasper&theme=panda&show_icons=true&text_color=ae62d2)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndreaJasper&theme=panda&text_color=ae62d2)](https://git.io/streak-stats)
 
