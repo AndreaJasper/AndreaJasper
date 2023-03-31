@@ -10,8 +10,8 @@
 
 Hi all! My name is Andrea and I’m a software developer with a background in front-end development and tech Project Management. I currently work in Ruby on Rails and expanding into React. Learning is a passion of mine that I persue enthusiastically and allows me to grow in fun and unexpected ways.
 
-![](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/andrea-jasper/&logoColor=white&color=ae62d2)
-![](https://img.shields.io/badge/Website-informational?style=for-the-badge&logo=website&link=http://andreajasper.com&logoColor=white&color=ae62d2)
+![](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin?link=https://www.linkedin.com/in/andrea-jasper/&logoColor=white&color=ae62d2)
+![](https://img.shields.io/badge/Website-informational?style=for-the-badge&logo=website?link=http://andreajasper.com&logoColor=white&color=ae62d2)
 ---
 
 ### Tech Stack
