@@ -3,7 +3,7 @@
 # Hi! Thanks for stopping by.
 <br>
 
-Hi all! My name is Andrea and I’m a software developer with a background in full-stack development and tech Project Management. I currently work in Ruby on Rails and expanding into React. Learning is a passion of mine that I persue enthusiastically and allows me to grow in fun and unexpected ways.
+Hi all! My name is Andrea and I’m a software developer with a background in full-stack development and tech Project Management. I currently work in Ruby on Rails and delving more into React. Learning is a passion of mine that I persue enthusiastically and allows me to grow in fun and unexpected ways.
 
 
 ### Let's Connect
