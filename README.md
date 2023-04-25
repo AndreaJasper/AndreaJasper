@@ -1,4 +1,4 @@
-![Hero banner for Andrea Jasper](https://github.com/AndreaJasper/AndreaJasper/blob/master/images/GH-Banner.jpg)
+![Hero banner for Andrea Jasper](https://github.com/AndreaJasper/AndreaJasper/blob/master/images/GH-Banner-23.jpg)
 
 # Hi! Thanks for stopping by.
 <br>
@@ -10,7 +10,7 @@ Hi all! My name is Andrea and I’m a software developer with a background in fu
 <a href="https://www.linkedin.com/in/andrea-jasper/">
  <img src="https://img.shields.io/badge/-LinkedIn-ae62d2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrea-jasper/"/>
 </a>
-<a href="https://www.linkedin.com/in/andrea-jasper/">
+<a href="https://www.andreajasper.com">
  <img src="https://img.shields.io/badge/-Website-109379?style=for-the-badge&logo=Website&logoColor=white&link=https://andreajasper.com"/>
 </a>
 
