@@ -8,7 +8,7 @@ I’m a software developer with a background in full-stack development and tech 
  <img src="https://img.shields.io/badge/-LinkedIn-9f9fc1?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrea-jasper/"/>
 </a>
 <a href="https://www.andreajasper.com">
- <img src="https://img.shields.io/badge/-Website-517785?style=for-the-badge&logo=Website&logoColor=white&link=https://andreajasper.com"/>
+ <img src="https://img.shields.io/badge/-Website-517785?style=for-the-badge&logo=Website&logoColor=white&link=andreajasper.com"/>
 </a>
 
 
