@@ -10,6 +10,9 @@ I’m a software developer with a background in full-stack development and tech 
 <a href="https://www.andreajasper.com">
  <img src="https://img.shields.io/badge/-Website-517785?style=for-the-badge&logo=Website&logoColor=white&link=andreajasper.com"/>
 </a>
+<a href="https://twitter.com/AndreaJasp5770">
+ <img src="https://img.shields.io/badge/-Twitter-5d5d92?style=for-the-badge&logo=Website&logoColor=white&link=andreajasper.com"/>
+</a>
 
 
 ### Tech Stack
