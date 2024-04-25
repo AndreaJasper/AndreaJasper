@@ -1,6 +1,6 @@
 ![Hero banner for Andrea Jasper](https://github.com/AndreaJasper/AndreaJasper/blob/master/images/GH-Banner-24.jpg)
 
-I’m a software developer with a background in full-stack development and tech Project Management. I currently work in Ruby on Rails and delving more into React. Learning is a passion of mine that I persue enthusiastically and allows me to grow in fun and unexpected ways.
+During my time as a project manager in tech, I discovered a strong interest in coding and related fields. Exposure to various projects and technologies fueled this passion, leading me to transition into my first software engineering role. Now focused on growth, I prioritize learning and project development to refine my skills. Currently, I'm actively training in data analysis and machine learning to further my expertise in technology.
 
 
 ### Let's Connect
@@ -19,6 +19,8 @@ I’m a software developer with a background in full-stack development and tech 
 ### Tech Stack
 
 ![](https://img.shields.io/badge/-Rails-informational?style=for-the-badge&logo=ruby-on-rails&logoColor=white&color=7cb6c7)
+![](https://img.shields.io/badge/-SQL-informational?style=for-the-badge&logo=SQL&logoColor=white&color=237e99)
+![](https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=7cb6c7)
 ![](https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=react&logoColor=white&color=237e99)
 ![](https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=7cb6c7)
 ![](https://img.shields.io/badge/-CircleCI-informational?style=for-the-badge&logo=circleci&logoColor=white&color=237e99)
@@ -30,6 +32,7 @@ I’m a software developer with a background in full-stack development and tech 
 ![](https://img.shields.io/badge/-CSS3-informational?style=for-the-badge&logo=css3&logoColor=white&color=237e99)
 ![](https://img.shields.io/badge/-UiKit-informational?style=for-the-badge&logo=uikit&logoColor=white&color=7cb6c7)
 ![](https://img.shields.io/badge/-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=237e99)
+![](https://img.shields.io/badge/-Tableau-informational?style=for-the-badge&logo=tableau&logoColor=white&color=7cb6c7)
 
 
 ### My GitHub Stats
