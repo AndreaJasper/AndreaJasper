@@ -1,4 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Andrea;Project+Manager%2C+Programmer%2C+Tech+Enthusiast" alt="Typing SVG" />
+![Hero banner for Andrea Jasper](https://github.com/AndreaJasper/AndreaJasper/blob/master/images/GH-Banner-24.jpg)
+
+<p>During my time as a project manager in the tech industry, I discovered a strong interest in coding and related fields. Exposure to various projects and technologies fueled this passion, leading me to transition into my first software engineering role. Now focused on growth, I prioritize learning and project development to refine my skills.
 
 ## :computer: Software Development Projects:
 - Test
