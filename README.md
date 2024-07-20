@@ -1,15 +1,12 @@
 # Hi, I'm Andrea
 ## [Project Manager, Programmer, Tech Enthusiast](https://www.linkedin.com/in/andrea-jasper/)
----
 
 ## :computer: Software Development Projects:
----
 - Test
   - Test 2
 
 ## :lock: Cybersecurity Projects:
----
-### COMING SOON!
+COMING SOON!
 
 ## Let's Connect
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andrea-jasper/)
@@ -29,7 +26,6 @@
 ### Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=rails,sqlite,mysql,python,react,js,jquery,html,css,sass,bootstrap,docker,heroku,netlify)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <!-- ![](https://img.shields.io/badge/-Rails-informational?style=for-the-badge&logo=ruby-on-rails&logoColor=white&color=7cb6c7)
 ![](https://img.shields.io/badge/-SQL-informational?style=for-the-badge&logo=SQL&logoColor=white&color=237e99)
