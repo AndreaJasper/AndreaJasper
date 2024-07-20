@@ -28,7 +28,7 @@
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=rails,sqlite,mysql,python,react,js,jquery,html,css,sass,bootstrap,docker,heroku,netlify)]
+[![My Skills](https://skillicons.dev/icons?i=rails,sqlite,mysql,python,react,js,jquery,html,css,sass,bootstrap,docker,heroku,netlify)](https://skillicons.dev)
 
 <!-- ![](https://img.shields.io/badge/-Rails-informational?style=for-the-badge&logo=ruby-on-rails&logoColor=white&color=7cb6c7)
 ![](https://img.shields.io/badge/-SQL-informational?style=for-the-badge&logo=SQL&logoColor=white&color=237e99)
@@ -45,3 +45,8 @@
 ![](https://img.shields.io/badge/-UiKit-informational?style=for-the-badge&logo=uikit&logoColor=white&color=7cb6c7)
 ![](https://img.shields.io/badge/-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=237e99)
 ![](https://img.shields.io/badge/-Tableau-informational?style=for-the-badge&logo=tableau&logoColor=white&color=7cb6c7) -->
+
+
+https://www.markdownguide.org/cheat-sheet/
+https://github.com/tandpfun/skill-icons
+https://gist.github.com/rxaviers/7360908
