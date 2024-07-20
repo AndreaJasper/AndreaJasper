@@ -1,5 +1,4 @@
-<h1>Hi, I'm Andrea<h1>
-<a href="https://www.linkedin.com/in/andrea-jasper/">Project Manager, Programmer, Tech Entusiast</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Andrea;Project+Manager%2C+Programmer%2C+Tech+Enthusiast" alt="Typing SVG" />
 
 ## :computer: Software Development Projects:
 - Test
@@ -17,7 +16,11 @@ COMING SOON!
 [![Website](https://skillicons.dev/icons?i=twitter)](https://www.andreajasper.com)
 [![X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/AndreaJasp5770https://twitter.com/AndreaJasp5770)
 
-
+---
+## What I'm currently doing
+- I'm currently working as a Freelance Project Manager
+- I'm currntly learning Cybersecurity
+- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 https://www.markdownguide.org/cheat-sheet/
 https://github.com/tandpfun/skill-icons
