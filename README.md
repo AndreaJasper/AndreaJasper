@@ -1,4 +1,5 @@
-<h1>Hi, I'm Andrea</h1><br/><a href="https://www.linkedin.com/in/andrea-jasper/">Project Manager, Programmer, Tech Entusiast</a>
+<h1>Hi, I'm Andrea<h1>
+<a href="https://www.linkedin.com/in/andrea-jasper/">Project Manager, Programmer, Tech Entusiast</a>
 
 ## :computer: Software Development Projects:
 - Test
