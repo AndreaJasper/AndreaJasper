@@ -2,17 +2,20 @@
 ## [Project Manager, Programmer, Tech Enthusiast](https://www.linkedin.com/in/andrea-jasper/)
 ---
 
-## Software Development Projects:
+## :computer: Software Development Projects:
 ---
 - Test
   - Test 2
 
-## Cybersecurity Projects:
+## :lock: Cybersecurity Projects:
 ---
+### COMING SOON!
 
-- Test
-  - Test 2
 ## Let's Connect
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andrea-jasper/)
+[![Website](https://skillicons.dev/icons?i=twitter)](https://www.andreajasper.com)
+[![X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/AndreaJasp5770https://twitter.com/AndreaJasp5770)
+
 <a href="https://www.linkedin.com/in/andrea-jasper/">
  <img src="https://img.shields.io/badge/-LinkedIn-7cb6c7?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrea-jasper/"/>
 </a>
@@ -25,7 +28,7 @@
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=rails,sqlite,mysql,python,react,javascript,heroku,netlify,html,sass,bootstrap&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rails,sqlite,mysql,python,react,js,jquery,html,css,sass,bootstrap,docker,heroku,netlify)]
 
 <!-- ![](https://img.shields.io/badge/-Rails-informational?style=for-the-badge&logo=ruby-on-rails&logoColor=white&color=7cb6c7)
 ![](https://img.shields.io/badge/-SQL-informational?style=for-the-badge&logo=SQL&logoColor=white&color=237e99)
