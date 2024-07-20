@@ -14,8 +14,6 @@ During my time as a project manager in tech, I discovered a strong interest in c
  <img src="https://img.shields.io/badge/-Twitter-7cb6c7?style=for-the-badge&logo=twitter&logoColor=white&link=andreajasper.com"/>
 </a>
 
-6e7681
-
 ### Tech Stack
 
 ![](https://img.shields.io/badge/-Rails-informational?style=for-the-badge&logo=ruby-on-rails&logoColor=white&color=7cb6c7)
