@@ -1,4 +1,4 @@
-![Hero banner for Andrea Jasper](https://github.com/AndreaJasper/AndreaJasper/blob/master/images/GH-Banner-24.jpg)
+![Hero banner for Andrea Jasper](https://github.com/AndreaJasper/AndreaJasper/blob/master/images/GH-Banner-25.jpg)
 
 During my time as a project manager in tech, I discovered a strong interest in coding and related fields. Exposure to various projects and technologies fueled this passion, leading me to transition into my first software engineering role. Now focused on growth, I prioritize learning and project development to refine my skills. Currently, I'm actively training in data analysis and machine learning to further my expertise in technology.
 
